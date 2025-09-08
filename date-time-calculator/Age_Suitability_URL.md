@@ -232,7 +232,7 @@
 
 ### **Recommended URL Structure:**
 ```
-https://your-domain.com/age-suitability
+[https://your-domain.com/age-suitability](https://github.com/pradapjackie/privacy-policy-all/blob/main/date-time-calculator/Age_Suitability_URL.md)
 ```
 
 ### **URL Content Should Include:**
