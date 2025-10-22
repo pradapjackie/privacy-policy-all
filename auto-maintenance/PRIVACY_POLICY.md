@@ -1,4 +1,4 @@
-# Privacy Policy for Car Maintenance App
+# Privacy Policy for Auto Maintenance App
 
 **Last Updated:** October 16, 2024
 
@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Welcome to Car Maintenance ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
+Welcome to Auto Maintenance ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
 
 By using the App, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the App.
 
@@ -148,14 +148,14 @@ You have the right to:
 - Update or correct inaccurate information
 - Export your data in a portable format
 
-**How to Exercise:** Use the Settings screen in the App or contact us at support@carmaintenance.app
+**How to Exercise:** Use the Settings screen in the App or contact us at pradapjackie@gmail.com
 
 ### 5.2 Delete Your Data
 You have the right to:
 - Delete specific records (maintenance, fuel, vehicles)
 - Delete your entire account and all associated data
 
-**How to Exercise:** Go to Settings → Account → Delete Account, or contact us at support@carmaintenance.app
+**How to Exercise:** Go to Settings → Account → Delete Account, or contact us at pradapjackie@gmail.com
 
 ### 5.3 Opt-Out of Communications
 You have the right to:
@@ -194,7 +194,7 @@ You have the right to:
 
 The App is **NOT intended for children under the age of 13**. We do not knowingly collect personal information from children under 13.
 
-If you are a parent or guardian and believe your child has provided us with personal information, please contact us at support@carmaintenance.app, and we will delete such information from our systems immediately.
+If you are a parent or guardian and believe your child has provided us with personal information, please contact us at pradapjackie@gmail.com, and we will delete such information from our systems immediately.
 
 **Age Verification:**
 - Users must confirm they are 13 years or older to create an account
@@ -278,13 +278,11 @@ We may update this Privacy Policy from time to time. Changes will be effective i
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
 
-**Email:** support@carmaintenance.app
+**Email:** pradapjackie@gmail.com
 
 **Mailing Address:**
-Car Maintenance App
-[Your Company Address]
-[City, State, ZIP Code]
-[Country]
+Auto Maintenance 
+Dubai
 
 **Response Time:** We aim to respond to all inquiries within 48 hours.
 
@@ -294,14 +292,14 @@ Car Maintenance App
 
 For users in the European Union, you may contact our Data Protection Officer:
 
-**Email:** dpo@carmaintenance.app
+**Email:** pradapjackie@gmail.com
 
 ---
 
 ## 14. Dispute Resolution
 
 If you have concerns about how we handle your personal information:
-1. Contact us first at support@carmaintenance.app
+1. Contact us first at pradapjackie@gmail.com
 2. If unresolved, you may file a complaint with your local data protection authority
 3. For EU users: You may lodge a complaint with the supervisory authority in your country
 
@@ -316,7 +314,7 @@ By using the App, you consent to:
 
 **You may withdraw consent at any time by:**
 - Deleting your account
-- Contacting us at support@carmaintenance.app
+- Contacting us at pradapjackie@gmail.com
 - Disabling specific features in App Settings
 
 ---
@@ -355,8 +353,8 @@ By using the App, you consent to:
 ✅ **We do NOT:** Sell your data, share without consent, collect from children under 13
 ✅ **Your rights:** Access, delete, export, opt-out of communications
 ✅ **Security:** Encryption, secure servers, regular audits
-✅ **Contact:** support@carmaintenance.app for any privacy questions
+✅ **Contact:** pradapjackie@gmail.com for any privacy questions
 
 ---
 
-**Thank you for trusting Car Maintenance App with your vehicle maintenance data. Your privacy and security are our top priorities.**
+**Thank you for trusting Auto Maintenance App with your vehicle maintenance data. Your privacy and security are our top priorities.**
