@@ -148,14 +148,14 @@ You have the right to:
 - Update or correct inaccurate information
 - Export your data in a portable format
 
-**How to Exercise:** Use the Settings screen in the App or contact us at support@carmaintenance.app
+**How to Exercise:** Use the Settings screen in the App or contact us at vehicle@automationmaestro.com
 
 ### 5.2 Delete Your Data
 You have the right to:
 - Delete specific records (maintenance, fuel, vehicles)
 - Delete your entire account and all associated data
 
-**How to Exercise:** Go to Settings → Account → Delete Account, or contact us at support@carmaintenance.app
+**How to Exercise:** Go to Settings → Account → Delete Account, or contact us at vehicle@automationmaestro.com
 
 ### 5.3 Opt-Out of Communications
 You have the right to:
@@ -194,7 +194,7 @@ You have the right to:
 
 The App is **NOT intended for children under the age of 13**. We do not knowingly collect personal information from children under 13.
 
-If you are a parent or guardian and believe your child has provided us with personal information, please contact us at support@carmaintenance.app, and we will delete such information from our systems immediately.
+If you are a parent or guardian and believe your child has provided us with personal information, please contact us at vehicle@automationmaestro.com, and we will delete such information from our systems immediately.
 
 **Age Verification:**
 - Users must confirm they are 13 years or older to create an account
@@ -278,7 +278,7 @@ We may update this Privacy Policy from time to time. Changes will be effective i
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
 
-**Email:** support@carmaintenance.app
+**Email:** vehicle@automationmaestro.com
 
 **Mailing Address:**
 Car Maintenance App
@@ -301,7 +301,7 @@ For users in the European Union, you may contact our Data Protection Officer:
 ## 14. Dispute Resolution
 
 If you have concerns about how we handle your personal information:
-1. Contact us first at support@carmaintenance.app
+1. Contact us first at vehicle@automationmaestro.com
 2. If unresolved, you may file a complaint with your local data protection authority
 3. For EU users: You may lodge a complaint with the supervisory authority in your country
 
@@ -316,7 +316,7 @@ By using the App, you consent to:
 
 **You may withdraw consent at any time by:**
 - Deleting your account
-- Contacting us at support@carmaintenance.app
+- Contacting us at vehicle@automationmaestro.com
 - Disabling specific features in App Settings
 
 ---
@@ -355,7 +355,7 @@ By using the App, you consent to:
 ✅ **We do NOT:** Sell your data, share without consent, collect from children under 13
 ✅ **Your rights:** Access, delete, export, opt-out of communications
 ✅ **Security:** Encryption, secure servers, regular audits
-✅ **Contact:** support@carmaintenance.app for any privacy questions
+✅ **Contact:** vehicle@automationmaestro.com for any privacy questions
 
 ---
 
