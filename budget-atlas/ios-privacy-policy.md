@@ -1,3 +1,8 @@
+---
+title: Privacy Policy — Budget Atlas (iOS)
+permalink: /budget-atlas/ios/privacy-policy/
+---
+
 # Privacy Policy — Budget Atlas
 
 **Last updated:** 13 August 2026  
@@ -151,7 +156,7 @@ Servers may be in regions other than where you live. By using the app you unders
 - Export (Premium / Family, where the product allows)
 - Delete receipts, transactions, and other records you created
 - Sign out; revoke Google / Apple access in those accounts’ settings
-- Delete your account in the app: **Profile → Delete account**, or email **support@pradappandiyan.com**. See [Account deletion](ACCOUNT_DELETION.md).
+- Delete your account in the app: **Profile → Delete account**, or email **support@pradappandiyan.com**. See [Account deletion]({{ '/budget-atlas/ios/account-deletion/' | relative_url }}).
 
 ---
 
