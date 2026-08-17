@@ -1,13 +1,13 @@
-# ShopTogether Privacy Policy (iOS)
+# Plan Mesh Privacy Policy (iOS)
 
-**Last updated:** July 30, 2026  
-**Applies to:** ShopTogether on **iOS** (Apple App Store) and the related ShopTogether backend/API used by the iOS app.
+**Last updated:** 17 August 2026  
+**Applies to:** Plan Mesh (formerly ShopTogether) on **iOS** (Apple App Store) and the related Plan Mesh backend/API used by the iOS app.
 
-ShopTogether (“we”, “us”, or “our”) is a collaborative shopping-list app. This Privacy Policy explains what information we collect, how we use it, and the choices you have. By using ShopTogether on iOS, you agree to this policy.
+Plan Mesh (“we”, “us”, or “our”) is a collaborative shopping-list app. This Privacy Policy explains what information we collect, how we use it, and the choices you have. By using Plan Mesh on iOS, you agree to this policy.
 
 ## 1. Who we are
 
-ShopTogether is operated by Pradap Pandiyan.
+Plan Mesh is operated by Pradap Pandiyan.
 
 **Contact / support:** [support@pradappandiyan.com](mailto:support@pradappandiyan.com)
 
@@ -36,6 +36,8 @@ Depending on how you use the iOS app, we may collect:
 ### Device and usage data
 - Basic technical logs needed to operate and secure the service (for example request logs, error logs, timestamps, and app version)  
 - Apple may also provide standard diagnostics/analytics according to your iOS privacy settings  
+- **Firebase Crashlytics** — crash and error reports (app version, device model, OS version, stack traces; not used for ads)  
+- **Firebase Analytics** — aggregated in-app usage events to improve reliability and features (not sold; not used for third-party advertising)  
 
 ## 3. How we use information
 
@@ -52,7 +54,7 @@ We use this information to:
 
 ## 4. Sharing of information
 
-We may share information only as needed to run ShopTogether:
+We may share information only as needed to run Plan Mesh:
 
 - **Other cart members** — people you invite or who join your carts can see cart content, member names, and messages in that cart  
 - **Service providers** — hosting and infrastructure providers that process data on our behalf (for example cloud hosting for the API and database)  
@@ -64,7 +66,7 @@ We may share information only as needed to run ShopTogether:
 
 ## 5. Data retention
 
-We keep account and app content while your account is active and as needed to provide the service. You may request deletion of your account or content by contacting support. Some residual logs may be retained for a limited time for security and operational purposes.
+We keep account and app content while your account is active and as needed to provide the service. You may request deletion of your account or content in the app (**Profile → Delete account**) or by contacting support. Some residual logs may be retained for a limited time for security and operational purposes.
 
 ## 6. Security
 
@@ -72,25 +74,25 @@ We use reasonable technical and organizational measures to protect your data, in
 
 ## 7. Children’s privacy
 
-ShopTogether is not directed to children under 13 (or the minimum age required in your country, including Apple’s child-account rules). We do not knowingly collect personal information from children.
+Plan Mesh is not directed to children under 13 (or the minimum age required in your country, including Apple’s child-account rules). We do not knowingly collect personal information from children.
 
 ## 8. Your choices and rights
 
 - Update profile details in the app where available  
 - Leave carts or stop using sharing features at any time  
-- Control camera/photo permissions in iOS **Settings → ShopTogether**  
+- Control camera/photo permissions in iOS **Settings → Plan Mesh**  
 - Manage App Tracking / Apple privacy settings on your device  
-- Request access, correction, or deletion of your personal data by emailing support  
+- Request access, correction, or deletion of your personal data in the app or by emailing support  
 
 If you delete the iOS app from your device, server-side account data may remain until you request deletion.
 
 ## 9. International processing
 
-Our servers and service providers may process data in countries other than where you live. By using ShopTogether, you understand that your information may be transferred to and processed in those locations.
+Our servers and service providers may process data in countries other than where you live. By using Plan Mesh, you understand that your information may be transferred to and processed in those locations.
 
 ## 10. App Store privacy disclosures
 
-This policy supports Apple App Store privacy policy requirements and App Privacy (nutrition label) disclosures. ShopTogether does not sell personal data and does not use your personal data for third-party advertising.
+This policy supports Apple App Store privacy policy requirements and App Privacy (nutrition label) disclosures. Plan Mesh does not sell personal data and does not use your personal data for third-party advertising.
 
 ## 11. Changes to this policy
 
@@ -102,4 +104,4 @@ Questions about privacy: [support@pradappandiyan.com](mailto:support@pradappandi
 
 ---
 
-© 2026 ShopTogether · Pradap Pandiyan · iOS / App Store
+© 2026 Plan Mesh · Pradap Pandiyan · iOS / App Store
