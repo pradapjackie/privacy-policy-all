@@ -104,7 +104,7 @@ We do **not** sell your personal data. We do **not** use your relationship notes
 We share data only with:
 
 - **Infrastructure providers** that host our API, database, and file storage  
-- **AI providers** when you use AI features (content needed to fulfill the request)  
+- **OpenAI** when you use AI features and have agreed in-app (content needed to fulfill the request)  
 - **Google / Apple / RevenueCat** for sign-in and subscriptions  
 - **Authorities** if required by law  
 
