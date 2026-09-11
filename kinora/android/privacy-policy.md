@@ -5,7 +5,7 @@ permalink: /kinora/android/privacy-policy/
 
 # Privacy Policy — Kinora — Stay Close
 
-**Last updated:** 5 September 2026  
+**Last updated:** 11 September 2026  
 **Applies to:** Kinora on **Android** (`com.pradappandiyan.kinora`)  
 **Also see:** [iOS privacy policy]({{ site.baseurl }}/kinora/ios/privacy-policy/)
 
@@ -67,7 +67,13 @@ Photos are stored on our object storage so they can sync with your account.
 
 ### 2.5 AI features (Premium / trial)
 
-If you use AI suggestions, message drafts, Assistant chat, or voice quick log, we process the text (and related contact context you already stored) through our backend and third-party AI providers to generate a response. Do not put secrets you would not trust a cloud AI with into those prompts.
+Optional AI features (Assistant chat, conversation ideas, message drafts, and Quick Log) send selected text through Kinora’s servers to **OpenAI** so we can generate suggestions or parse what you typed.
+
+**What may be sent:** messages you type to the assistant; contact names and relationship details; notes, memories, and life events you saved; recent interaction context; and Quick Log text you enter.
+
+**Permission:** the app asks for your permission in-app before any AI feature shares this data with OpenAI. You can decline and keep using Kinora without AI features.
+
+Data sent for AI is used only to power the feature you requested — not for advertising. Do not put secrets you would not trust a cloud AI with into those prompts.
 
 ### 2.6 Subscriptions and billing
 
