@@ -5,7 +5,7 @@ permalink: /kinora/ios/privacy-policy/
 
 # Privacy Policy — Kinora — Stay Close
 
-**Last updated:** 11 September 2026  
+**Last updated:** 18 September 2026  
 **Applies to:** Kinora on **iOS** (`com.pradappandiyan.kinora`)  
 **Also see:** [Android privacy policy]({{ site.baseurl }}/kinora/android/privacy-policy/)
 
@@ -73,6 +73,8 @@ Optional AI features (Assistant chat, conversation ideas, message drafts, and Qu
 **Permission:** the app asks for your permission in-app before any AI feature shares this data with OpenAI. You can decline and keep using Kinora without AI features.
 
 Data sent for AI is used only to power the feature you requested — not for advertising.
+
+We confirm that OpenAI provides the same or equal protection of user data as described in this privacy policy and as required by Apple’s App Store Review Guidelines. See [OpenAI’s Privacy Policy](https://openai.com/policies/privacy-policy).
 
 ### 2.6 Subscriptions and billing
 
